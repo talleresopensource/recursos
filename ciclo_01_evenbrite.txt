@@ -1,18 +1,21 @@
-Recibimos tu inscripción a los talleres. También recibimos una gran cantidad de inscripciones y consultas. Podés encontrar más información (descripción, requisitos, materiales, ...) en el link de cada evento. No es necesario que vuelvas a inscribirte, pero si conocés a alguien a quien pueda interesarle, te agradecemos compartirlo! 
-
-Encuentro 1 - Intro a Python para Neurociencias
-Link evento: https://www.eventbrite.com.ar/e/117419866983
-
-Encuentro 2 - Git en Github
-Link evento: https://www.eventbrite.com.ar/e/117423840869
-
-Encuentro 3 - Intro a Arduino
-Link evento: 
-
-Encuentro 4 - https://www.eventbrite.com.ar/e/117424743569
-Link evento: https://www.eventbrite.com.ar/e/117425212973
-
+<br><br>
+Recibimos tu inscripción a los talleres. También recibimos una gran cantidad de inscripciones y consultas.
+Podés encontrar más información (descripción, requisitos, materiales, etc.) en el link de cada evento.
+Si conocés a alguien a quien pueda interesarle, ¡te agradecemos compartirlo! 
+<br><br>
+Encuentro 1 - Programación para análisis y visualización de datos<br>
+Link evento: <a href='https://www.eventbrite.com.ar/e/117419866983'>https://www.eventbrite.com.ar/e/117419866983</a>.
+<br><br>
+Encuentro 2 - Control de versionado y desarrollo colaborativo<br>
+Link evento: <a href='https://www.eventbrite.com.ar/e/117423840869'>https://www.eventbrite.com.ar/e/117423840869</a>.
+<br><br>
+Encuentro 3 - Placa controladora<br>
+Link evento: <a href='https://www.eventbrite.com.ar/e/117424743569'>https://www.eventbrite.com.ar/e/117424743569</a>.
+<br><br>
+Encuentro 4 - Fabricación 3D<br>
+Link evento: <a href='https://www.eventbrite.com.ar/e/117425212973'>https://www.eventbrite.com.ar/e/117425212973</a>.
+<br><br>
 El día de cada taller vamos a mandar el link de Zoom para que puedas entrar.
-
-Saludos,
+<br><br>
+Saludos,<br>
 Talleres Open Source
