@@ -8,7 +8,7 @@ gm_auth_configure(path = "gmailr_credentials.json")
 
 #df <- read_csv("lista.csv")
 df <- read_sheet("https://docs.google.com/spreadsheets/d/13TJs8gvHN6MZBUcLy49A_ujiCcf5ZlaZeJbiZECupwQ/edit#gid=173808074")
-df <- df[2:nrow(df),]
+#df <- df[2:nrow(df),] #cuando sin querer le mandaste ya al primero
 txt <- read_tsv("ciclo_01_evenbrite.txt",
                 col_names = FALSE) %>% 
   unlist(use.names = FALSE)
