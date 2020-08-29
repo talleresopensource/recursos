@@ -1,0 +1,16 @@
+<br><br>
+¡Gracias por inscribirte a los talleres open source! 
+<br><br>
+Se viene el Encuentro 1 - Programación para análisis y visualización de datos
+<br><br>
+Te esperamos el Martes 1 de septiembre, 18:00 h, en <a href="https://mit.zoom.us/j/93815186235">Link de Zoom Encuentro 1</a>.
+<br><br>
+Tené en cuenta que este link se lo enviamos solo a lxs participantes inscriptxs para saber con quienes contamos en la sesión virtual así que, <strong>por favor no lo compartas</strong>. La mejor forma de compartir el evento es mediante el link para <a href="https://www.eventbrite.com.ar/e/117419866983">registrarse por Eventbrite</a>.
+<br><br>
+En el primer taller del ciclo, Gonzalo Uribarri mostrará elementos básicos de programación en Python en Google Colab para analizar y visualizar datos experimentales. Lxs participantes contestarán una serie de preguntas usando las herramientas aprendidas a partir de un conjunto de datos de comportamiento de un roedor. El objetivo es que puedan utilizar las herramientas aprendidas para comenzar a analizar sus propios datos.
+Solo se requiere una cuenta de Google, espacio en el Drive para trabajar en Google Colab y acceso a la plataforma Zoom, ¡y muchas ganas de programar!
+<br><br> 
+Este taller es introductorio pero no empieza de cero. Preparamos un vistazo rápido de los conceptos básicos necesarios para poder aprovechar el taller al máximo. Todo el material para el curso estará en <a href="https://github.com/talleresopensource/ciclo-01/tree/master/encuentro1">GitHub</a>.
+<br><br>
+Les esperamos,<br>
+Talleres Open Source
