@@ -1,0 +1,14 @@
+<br><br>
+Se viene el Encuentro 3 - Placa controladora Arduino
+<br><br>
+Te esperamos el próximo martes 15 de septiembre a las 18:00 h en <a href="https://mit.zoom.us/j/99231670412">Link de Zoom Encuentro 3</a>.
+<br><br>
+Tené en cuenta que este link se lo enviamos solo a lxs participantes inscriptxs para saber con quienes contamos en la sesión virtual así que, <strong>por favor no lo compartas</strong>. La mejor forma de compartir el evento es mediante el link para <a href="https://www.eventbrite.com.ar/e/117424743569">registrarse por Eventbrite</a>.
+<br><br>
+En este taller, Marcos Coletti mostrará cómo armar y controlar circuitos básicos con una placa controladora Arduino. El objetivo es aprender a programarla siguiendo un ejemplo de aplicación real en investigación.
+Solo se requiere una cuenta de <a href="https://www.tinkercad.com/">TinkerCAD</a> y acceso a la plataforma Zoom.
+<br><br> 
+Todo el material para el curso estará en <a href="https://github.com/talleresopensource/ciclo-01/tree/master">GitHub</a>.
+<br><br>
+Les esperamos,<br>
+Talleres Open Source

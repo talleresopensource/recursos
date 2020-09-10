@@ -1,0 +1,14 @@
+<br><br>
+Se viene el Encuentro 4 - Fabricación 3D en FreeCAD
+<br><br>
+Te esperamos el próximo martes 22 de septiembre a las 18:00 h en <a href="https://mit.zoom.us/j/97299486154>Link de Zoom Encuentro 4</a>.
+<br><br>
+Tené en cuenta que este link se lo enviamos solo a lxs participantes inscriptxs para saber con quienes contamos en la sesión virtual así que, <strong>por favor no lo compartas</strong>. La mejor forma de compartir el evento es mediante el link para <a href="https://www.eventbrite.com.ar/e/117424743569">registrarse por Eventbrite</a>.
+<br><br>
+En el último taller de este ciclo, Cecilia Herbert describirá técnicas de fabricación 3D para render y prototipado o fabricación en impresora 3D, y cómo compartir el diseño de forma abierta. Lxs participantes diseñarán una pieza sencilla en un software de diseño CAD y podrán modificar una bajada de un repositorio. El objetivo es mostrar cómo, sin ser expertxs, podemos personalizar nuestro setup según nuestras necesidades y compartir los diseños de hardware de manera abierta.
+Solo se requiere instalar <a href="https://www.freecadweb.org/>FreeCAD</a> y tener acceso a la plataforma Zoom.
+<br><br> 
+Todo el material para el curso estará en <a href="https://github.com/talleresopensource/ciclo-01/tree/master">GitHub</a>.
+<br><br>
+Les esperamos,<br>
+Talleres Open Source
