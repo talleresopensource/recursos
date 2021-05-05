@@ -1,0 +1,9 @@
+<br><br>
+Dentro de poco vamos a lanzar el segundo ciclo de Talleres Open Source. Nos gustaría saber qué temas y herramientas les gustaría aprender. También estamos preparando otras actividades para este año.
+<br><br>
+Para ello, les invitamos a completar <a href="https://forms.gle/pS1aEvvuuEfxpzFcA">esta encuesta</a>, que solo les llevará unos minutos.
+<br><br>
+Recuerden que pueden revisitar el material del ciclo anterior en <a href="https://github.com/talleresopensource/ciclo-01/tree/master">nuestro GitHub</a> y los videos en nuestro <a href="https://www.youtube.com/channel/UCz3w8tadwU5hGbH4RX1Gkzg">canal de YouTube</a>.
+<br><br> 
+Gracias y hasta pronto,<br>
+Talleres Open Source
