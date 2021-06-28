@@ -1,0 +1,20 @@
+<br><br>
+En julio, ¡no te pierdas el ciclo 2 de Talleres Open Source!<br>
+Una nueva serie de talleres abiertos, inclusivos, interactivos y gratuitos.
+<br><br>
+<strong>Martes 6 - 18h</strong><br>
+Armado de reportes con RMarkdown, por Alejandro Ramos
+<br><br>
+<strong>Martes 13 - 18h</strong><br>
+Robótica desde cero: control de motores con Arduino, por Nico Mendez
+<br><br>
+<strong>Martes 20 - 18h</strong><br>
+Análisis de bioimágenes con FIJI, por Luis Boero
+<br><br>
+<strong>Martes 27 - 18h</strong><br>
+Estimación de postura con DeepLabCut, por Agostina Sacson
+<br><br>
+Más detalles e inscripción: <a href='https://www.eventbrite.com.ar/o/talleres-open-source-31042491935'>aquí</a>.
+<br><br>
+¡Les esperamos!,<br>
+Talleres Open Source
